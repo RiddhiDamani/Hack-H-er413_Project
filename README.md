@@ -8,12 +8,13 @@ Our application predicts whether a product is recyclable or not. When you take a
 We build the android application using React Native. We used open-source data and analyzed the data, and pre-processed it. We trained our own model using Convolution Neural Network in python for image classification. Finally, we integrated the CNN model with the android application using TensorFlowJS.
 
 ### Technologies Used: 
-
 1. Design Tools: Figma, Canva
 2. Dataset: Open Souce Data - http://web.cecs.pdx.edu/~singh/rcyc-web/dataset.html
 3. Software Tools: VSCode, Google Colab
 4. Technologies: React Native, Javascript, ReactJS, Python, TensorFlow, Expo
 
+### Team: 
+Vaishali Mahipal, Vadim Egorov and Riddhi Damani
 
 <img src="./app/assets/RecycleIT_Final.png" width="900" height="500"/>
 
