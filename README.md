@@ -20,3 +20,6 @@ Vaishali Mahipal, Vadim Egorov and Riddhi Damani
 
 ### Video Demo
 <img src="./app/assets/RecycleIT.gif" width="900" height="500"/>
+
+### We Won
+Best Social Good Hack - Sponsored by Meta
