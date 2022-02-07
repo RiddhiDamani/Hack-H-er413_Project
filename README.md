@@ -13,6 +13,9 @@ We build the android application using React Native. We used open-source data an
 3. Software Tools: VSCode, Google Colab
 4. Technologies: React Native, Javascript, ReactJS, Python, TensorFlow, Expo
 
+### We Won
+Best Social Good Hack Prize - Sponsored by Meta
+
 ### Team: 
 Vaishali Mahipal, Vadim Egorov and Riddhi Damani
 
@@ -21,5 +24,3 @@ Vaishali Mahipal, Vadim Egorov and Riddhi Damani
 ### Video Demo
 <img src="./app/assets/RecycleIT.gif" width="900" height="500"/>
 
-### We Won
-Best Social Good Hack - Sponsored by Meta
